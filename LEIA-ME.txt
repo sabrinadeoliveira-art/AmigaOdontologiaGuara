@@ -1,0 +1,13 @@
+AMIGA ODONTOLOGIA — SITE PARA PUBLICAÇÃO GRATUITA
+
+1. Entre em https://app.netlify.com/drop pelo navegador.
+2. Descompacte amiga_site_pronto.zip.
+3. Envie a pasta amiga_site_pronto (a pasta que contém index.html e as três imagens).
+4. Aguarde o Netlify publicar e mostrar o endereço gratuito terminado em netlify.app.
+5. Abra o link no celular e teste os botões do WhatsApp.
+
+O site usa o logo, a foto original do Dr. Max (sem edição de rosto) e a imagem de sorriso aprovada.
+O botão do WhatsApp abre uma conversa com o número (12) 97410-6969.
+Para mudar o endereço gerado pelo Netlify ou configurar o site depois, crie/entre na sua conta gratuita.
+
+Observação: confira os dados de contato e o registro do responsável técnico antes de divulgar anúncios.
